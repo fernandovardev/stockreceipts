@@ -1,0 +1,46 @@
+
+                       [N/A RazonSocial]            
+                          [N/A Nombre]              
+                        [N/A Direccion]             
+            [N/A Colonia]               [N/A Ciudad]              
+            RFC: [N/A Rfc]                            
+            FECHA: 24-10-2023. CAJERO: admin
+            HORA: 13:35:35. FOLIO: 0000024490
+            ****************************************
+                REIMPRESIÓN DE TICKET DE COMPRA     
+            ----------------------------------------
+            NO. FACTURA: m-351398                    FECHA FACT.: 16-09-2023
+            PROVEEDOR: CERVEZAS CUAUHTEMOC MOCTEZ 
+            ----------------------------------------
+            CÓDIGO     PRODUCTO             CANT. PRECIO. I.V.A. IMPORTE
+            ----------------------------------------
+0000000001381 PROM  10 BOTES LIGH 
+  120  12.75 244.80 1,530.00
+0000000002715 PROMO CAGUAMON LIGH 
+   24 34.055 130.77  817.32
+0000000003116 TECATE ROJO  LATON 7
+   12 26.436  50.76  317.23
+0000000003119 TECATE LIGHT  LATON 
+   12 26.436  50.76  317.23
+0000000001921 PROMO TECATE ROJO 35
+   72  12.75 146.88  918.00
+0000000002831 PROMO COORS LIGHT 6X
+   24   9.91  38.05  237.84
+0000000002716 PROMO CAGUAMON ROJO 
+   24 34.055 130.77  817.32
+0000000001172 TECATE LATA ROJO 16 
+   24  18.45  70.85  442.80
+0000000001180                     
+   24          0.00    0.00
+                               
+                           
+
+
+            ----------------------------------------
+            SUBTOTAL:                         5810.88
+            I.V.A.:                             929.74
+            TOTAL:                            6740.62
+            BONIFICACIÓN:                     861.15
+            TOTAL:                           5,879.47
+                                                    
+            Firma de conformidad:

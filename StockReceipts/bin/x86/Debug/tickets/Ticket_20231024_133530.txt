@@ -1,0 +1,28 @@
+
+                       [N/A RazonSocial]            
+                          [N/A Nombre]              
+                        [N/A Direccion]             
+            [N/A Colonia]               [N/A Ciudad]              
+            RFC: [N/A Rfc]                            
+            FECHA: 24-10-2023. CAJERO: admin
+            HORA: 13:35:30. FOLIO: 0000618728
+            ****************************************
+                REIMPRESIÓN DE TICKET DE COMPRA     
+            ----------------------------------------
+            NO. FACTURA: m-351398                    FECHA FACT.: 24-10-2023
+            PROVEEDOR: CERVEZAS CUAUHTEMOC MOCTEZ 
+            ----------------------------------------
+            CÓDIGO     PRODUCTO             CANT. PRECIO. I.V.A. IMPORTE
+            ----------------------------------------
+                               
+                           
+
+
+            ----------------------------------------
+            SUBTOTAL:                        00000.00
+            I.V.A.:                           00000.00
+            TOTAL:                           00000.00
+            BONIFICACIÓN:                       0.00
+            TOTAL:                               0.00
+                                                    
+            Firma de conformidad:

@@ -1,0 +1,30 @@
+
+CENTRO DE SERVICIOS SANTA FE S.A. DE C.V
+              MINISUPERA27              
+    AV. FRAY MARCOS DE NIZA 3496 SUR    
+SAN RAFAEL            CULIACAN, SINALOA            
+RFC: CSS-861006-UZ1                       
+FECHA: 24-10-2023. CAJERO: admin
+HORA: 18:12:22. FOLIO: 0000618729
+****************************************
+    REIMPRESIÓN DE TICKET DE COMPRA     
+----------------------------------------
+#FACT:                     
+FECHA FACT.: 24-10-2023
+PROVEEDOR:  
+----------------------------------------
+CÓDIGO     PRODUCTO             
+CANT. PRECIO. I.V.A. IMPORTE
+----------------------------------------
+                               
+                           
+
+
+----------------------------------------
+SUBTOTAL:                            0.00
+I.V.A.:                               0.00
+TOTAL:                               0.00
+BONIFICACIÓN:                       0.00
+TOTAL:                               0.00
+                                        
+Firma de conformidad:

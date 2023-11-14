@@ -1,0 +1,5 @@
+G:\Mi unidad\LABORAL\PETROAGUILA\REPOS\StockReceipts\StockReceipts\obj\Debug\StockReceipts.csproj.AssemblyReference.cache
+G:\Mi unidad\LABORAL\PETROAGUILA\REPOS\StockReceipts\StockReceipts\obj\Debug\StockReceipts.Form1.resources
+G:\Mi unidad\LABORAL\PETROAGUILA\REPOS\StockReceipts\StockReceipts\obj\Debug\StockReceipts.Properties.Resources.resources
+G:\Mi unidad\LABORAL\PETROAGUILA\REPOS\StockReceipts\StockReceipts\obj\Debug\StockReceipts.csproj.GenerateResource.cache
+G:\Mi unidad\LABORAL\PETROAGUILA\REPOS\StockReceipts\StockReceipts\obj\Debug\StockReceipts.csproj.CoreCompileInputs.cache

@@ -1,0 +1,35 @@
+
+CENTRO DE SERVICIOS SANTA FE S.A. DE C.V
+              MINISUPERA27              
+    AV. FRAY MARCOS DE NIZA 3496 SUR    
+SAN RAFAEL            CULIACAN, SINALOA            
+RFC: CSS-861006-UZ1                       
+FECHA: 25-10-2023. CAJERO: admin
+HORA: 13:18:18. FOLIO: 0000024528
+****************************************
+    REIMPRESIÓN DE TICKET DE COMPRA     
+----------------------------------------
+#FACT: m-351246            
+FECHA FACT.: 30-09-2023
+PROVEEDOR: DISTRIBUICIONES DANA, S.A        
+----------------------------------------
+CÓDIGO     PRODUCTO           CANT.   PRECIO I.V.A.  IMPORTE
+----------------------------------------
+0000000003162                     
+   40          0.00    0.00
+0000000001367                     
+   20          0.00    0.00
+0000000003063 MARLBORO SUMMER FUSI
+   10  51.61  82.58  516.10
+0000000003163 CIGARRO MALBORO GOLD
+   20  59.49 190.37 1,189.80
+
+
+----------------------------------------
+SUBTOTAL:                            0.00
+I.V.A.:                               833.94
+TOTAL:                           6,046.04
+BONIFICACIÓN:                       0.00
+TOTAL:                           6,046.04
+{new string(' ', 40)}
+Firma de conformidad:

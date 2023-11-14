@@ -1,0 +1,40 @@
+
+CENTRO DE SERVICIOS SANTA FE S.A. DE C.V
+              MINISUPERA27              
+    AV. FRAY MARCOS DE NIZA 3496 SUR    
+SAN RAFAEL            CULIACAN, SINALOA            
+RFC: CSS-861006-UZ1                       
+FECHA: 25-10-2023. CAJERO: admin
+HORA: 12:30:42. FOLIO: 0000024527
+****************************************
+         CANCELACIÓN DE COMPRA          
+----------------------------------------
+#FACT: m-351250            
+FECHA FACT.: 30-09-2023
+PROVEEDOR: DISTRIBUICIONES DANA, S.A  
+----------------------------------------
+CÓDIGO     PRODUCTO             
+CANT. PRECIO. I.V.A. IMPORTE
+----------------------------------------
+0000000000530 TIEMPO AIRE TELCEL  
+ 2000  0.819 262.08 1,638.00
+0000000003162                     
+   40          0.00    0.00
+0000000001367                     
+   20          0.00    0.00
+0000000003063 MARLBORO SUMMER FUSI
+   10  51.61  82.58  516.10
+0000000003163 CIGARRO MALBORO GOLD
+   20  59.49 190.37 1,189.80
+0000000000530 TIEMPO AIRE TELCEL  
+ 2000  0.819 262.08 1,638.00
+
+
+----------------------------------------
+SUBTOTAL:                            0.00
+I.V.A.:                             262.08
+TOTAL:                            1900.08
+BONIFICACIÓN:                       0.00
+TOTAL:                           1,900.08
+                                        
+Firma de conformidad:

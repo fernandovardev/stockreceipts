@@ -1,0 +1,30 @@
+
+CENTRO DE SERVICIOS SANTA FE S.A. DE C.V
+              MINISUPERA27              
+    AV. FRAY MARCOS DE NIZA 3496 SUR    
+SAN RAFAEL            CULIACAN, SINALOA            
+RFC: CSS-861006-UZ1                       
+FECHA: 25-10-2023. CAJERO: admin
+HORA: 11:03:07. FOLIO: 0000618729
+****************************************
+           REGISTRO DE COMPRA           
+----------------------------------------
+#FACT: M-4654561           
+FECHA FACT.: 25-10-2023
+PROVEEDOR: BIMBO S.A DE C.V 
+----------------------------------------
+CÓDIGO     PRODUCTO             
+CANT. PRECIO. I.V.A. IMPORTE
+----------------------------------------
+0000000000280 MANTECADAS 3 PZ 157.
+   10 21.312  34.10  213.12
+
+
+----------------------------------------
+SUBTOTAL:                          213.12
+I.V.A.:                              34.10
+TOTAL:                             247.22
+BONIFICACIÓN:                       0.00
+TOTAL:                             247.22
+                                        
+Firma de conformidad:

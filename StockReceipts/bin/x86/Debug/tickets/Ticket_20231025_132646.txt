@@ -1,0 +1,42 @@
+
+CENTRO DE SERVICIOS SANTA FE S.A. DE C.V
+              MINISUPERA27              
+    AV. FRAY MARCOS DE NIZA 3496 SUR    
+SAN RAFAEL          CULIACAN, SINALOA   
+RFC: CSS-861006-UZ1                       
+FECHA: 25-10-2023. CAJERO: admin
+HORA: 13:26:46. FOLIO: 0000024523
+****************************************
+    REIMPRESIÓN DE TICKET DE COMPRA     
+----------------------------------------
+#FACT: m-351266            
+FECHA FACT.: 28-09-2023
+PROVEEDOR: PRODUCTORA Y COMERCIALIZAD       
+----------------------------------------
+CÓDIGO     PRODUCTO           
+CANT.   PRECIO I.V.A.  IMPORTE
+----------------------------------------
+0000000000380 SPRITE 250ML        
+   12  6.034  11.59   72.41
+0000000000389 COCA COLA 2LT       
+    8 26.401  33.79  211.21
+0000000002777 COCA COLA 1.5       
+   12  17.34  33.29  208.08
+0000000002760 SIDRAL MUNDET 3 L.  
+    6 33.906  32.55  203.44
+0000000000381 COCA COLA 500ML     
+   24  9.051  34.76  217.22
+0000000000348 FRESCA TORONJA 600ML
+   12 13.577  26.07  162.92
+0000000000384 COCA COLA 600ML     
+   24 13.578  52.14  325.87
+
+
+----------------------------------------
+SUBTOTAL:                            0.00
+I.V.A.:                               224.19
+TOTAL:                           1,625.34
+BONIFICACIÓN:                       0.00
+TOTAL:                           1,625.34
+                                        
+Firma de conformidad:

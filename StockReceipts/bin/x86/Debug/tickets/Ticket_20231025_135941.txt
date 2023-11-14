@@ -1,0 +1,33 @@
+
+CENTRO DE SERVICIOS SANTA FE S.A. DE C.V
+              MINISUPERA27              
+    AV. FRAY MARCOS DE NIZA 3496 SUR    
+SAN RAFAEL          CULIACAN, SINALOA   
+RFC: CSS-861006-UZ1                       
+FECHA: 25-10-2023. CAJERO: admin
+HORA: 13:59:41. FOLIO: 0000024526
+****************************************
+    REIMPRESIÓN DE TICKET DE COMPRA     
+----------------------------------------
+#FACT: m-351254            
+FECHA FACT.: 29-09-2023
+PROVEEDOR: CASTILLO DISTRIBUCIONES CU       
+----------------------------------------
+CÓDIGO     PRODUCTO           
+CANT.   PRECIO I.V.A.  IMPORTE
+----------------------------------------
+0000000000734 FRITURAS VARIEDAD   
+   20  12.95  41.44  259.00
+
+
+----------------------------------------
+ SUBTOTAL:                         0.00
+ I.V.A.:                           0.00
+ TOTAL:                          259.00
+ BONIFICACIÓN:                     0.00
+ TOTAL:                          259.00
+                                        
+________________________________________
+ Firma de conformidad:
+
+

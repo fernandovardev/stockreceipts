@@ -1,0 +1,32 @@
+
+CENTRO DE SERVICIOS SANTA FE S.A. DE C.V
+              MINISUPERA27              
+    AV. FRAY MARCOS DE NIZA 3496 SUR    
+SAN RAFAEL            CULIACAN, SINALOA            
+RFC: CSS-861006-UZ1                       
+FECHA: 25-10-2023. CAJERO: admin
+HORA: 12:42:47. FOLIO: 0000024525
+****************************************
+         CANCELACIÓN DE COMPRA          
+----------------------------------------
+#FACT: m-351258            
+FECHA FACT.: 29-09-2023
+PROVEEDOR: CORPORATIVO FOPA S.A  DE C 
+----------------------------------------
+CÓDIGO     PRODUCTO             
+CANT. PRECIO. I.V.A. IMPORTE
+----------------------------------------
+0000000000275 TE JAZTEA SPORT 500M
+   25   12.5  50.00  312.50
+0000000000276 TE JAZTEA 1L        
+    5   21.5  17.20  107.50
+
+
+----------------------------------------
+SUBTOTAL:                            0.00
+I.V.A.:                                  0
+TOTAL:                                420
+BONIFICACIÓN:                       0.00
+TOTAL:                             420.00
+                                        
+Firma de conformidad:

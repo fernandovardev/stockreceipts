@@ -1,0 +1,38 @@
+
+CENTRO DE SERVICIOS SANTA FE S.A. DE C.V
+              MINISUPERA27              
+    AV. FRAY MARCOS DE NIZA 3496 SUR    
+SAN RAFAEL            CULIACAN, SINALOA            
+RFC: CSS-861006-UZ1                       
+FECHA: 24-10-2023. CAJERO: admin
+HORA: 17:31:19. FOLIO: 0000618728
+****************************************
+           REGISTRO DE COMPRA           
+----------------------------------------
+#FACT: A-12345             
+FECHA FACT.: 24-10-2023
+PROVEEDOR: PRODUCTOS PALMA 
+----------------------------------------
+CÓDIGO     PRODUCTO             
+CANT. PRECIO. I.V.A. IMPORTE
+----------------------------------------
+0000000000006 CHAMUKITOS 80G.     
+   10    7.5  12.00   75.00
+0000000001430 CHAMUKITOS 80G.     
+   20    7.5  12.00   75.00
+0000000000001 TAMARINDO BOLA DE CH
+   30      4  19.20  120.00
+0000000000005 MANGOGO 40G.        
+   40    7.5  48.00  300.00
+0000000000007 TAMARINDO AHOGADO 80
+   20    7.5  24.00  150.00
+
+
+----------------------------------------
+SUBTOTAL:                          720.00
+I.V.A.:                             115.20
+TOTAL:                             835.20
+BONIFICACIÓN:                       0.00
+TOTAL:                             835.20
+                                        
+Firma de conformidad:
